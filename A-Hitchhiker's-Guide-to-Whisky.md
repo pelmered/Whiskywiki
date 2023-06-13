@@ -14,7 +14,7 @@ We're glad you're here. Here's how to get up and running in a breeze.
 
 ## Making your first bottle
 
-Bottles are the bread and butter of Wine. Bottles a like little Windows filesystems, and they appear on your computer as a normal folder. In a bottle, you'll find programs, registry files, and everything else you need to install and configure your Windows 'machine'. Each bottle is self-contained and will only have the programs you installed in that bottle.
+Bottles are the bread and butter of Wine. Bottles are like little Windows filesystems, and they appear on your computer as a normal folder. In a bottle, you'll find programs, registry files, and everything else you need to install and configure your Windows 'machine'. Each bottle is self-contained and will only have the programs you installed in that bottle.
 
 1. Press the plus button in the top right-hand corner
 2. Give your bottle a name, and select the Windows version you want
@@ -27,7 +27,7 @@ Bottles are the bread and butter of Wine. Bottles a like little Windows filesyst
 3. Navigate to where you have your `exe` or `msi` file in Finder
 4. Select the file and press `Open`
 
-Whisky will then open and run the program. It may take a few seconds for the window to appear. Be patient :)
+Whisky will then open and run the program. It may take a few seconds for the window to appear, so be patient :)
 
 ## Configuring your bottle
 
