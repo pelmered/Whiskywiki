@@ -1,0 +1,1 @@
+Many games will work out of the box, but some are more tricky to get working. Things that frequently cause issues with Wine are 3rd party launchers, anti-cheats, and online services. Some of these games have workarounds, some do not.
