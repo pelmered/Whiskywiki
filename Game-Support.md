@@ -4,7 +4,7 @@ Many games will work out of the box, but some are more tricky. Things that frequ
 - Create a new Windows 10 bottle
 - Install in Steam as normal
 - In Whisky, find `elden_ring.exe` in the Program list and press `Show in Finder`
-- Rename `start_protected_game.exe` to something else, and rename `elden_ring.exe` to `start_protected_game.exe`\
+- Rename `start_protected_game.exe` to something else, and rename `elden_ring.exe` to `start_protected_game.exe`
   > **Note**\
   > This will disable online play features
 - Start Elden Ring from Steam as normal
