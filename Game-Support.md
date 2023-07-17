@@ -44,3 +44,4 @@ Many games will work out of the box, but some are more tricky. Things that frequ
 - Install in Steam as normal
 - In Whisky, find `SkyrimSELauncher.exe` in the Program list and press `Show in Finder`
 - Rename `SkyrimSELauncher.exe` to something else, and rename `SkyrimSE.exe` to `SkyrimSELauncher.exe`
+- Start Skyrim from Steam as normal
