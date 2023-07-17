@@ -33,3 +33,9 @@ Many games will work out of the box, but some are more tricky. Things that frequ
 - Run Elite Dangerous *from Steam*.
   > **Warning**\
   > You will be unable to log in if you do not launch from Steam
+
+## Skyrim SE - HAS AUDIO PROBLEMS
+- Create a new Windows 10 bottle
+- Install in Steam as normal
+- In Whisky, find `SkyrimSELauncher.exe` in the Program list and press `Show in Finder`
+- Rename `SkyrimSELauncher.exe` to something else, and rename `SkyrimSE.exe` to `SkyrimSELauncher.exe`
