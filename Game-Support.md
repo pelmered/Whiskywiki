@@ -20,6 +20,11 @@ Many games will work out of the box, but some are more tricky. Things that frequ
 - Restart Battle.net
 - Login and install Diablo IV as normal
 
+## Star Wars Jedi: Fallen Order
+- Create a new Windows 10 bottle
+- Install in Steam as normal
+- In Whisky, find `SwGame-Win64-Shipping.exe` in the Program list and run it
+
 ## Elite Dangerous - NOT WORKING
 - Install winetricks\
   `brew install winetricks`
