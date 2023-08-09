@@ -35,6 +35,15 @@ Many games will work out of the box, but some are more tricky. Things that frequ
 - Press `OK` then close the Registry Editor
 - Start Horizon Zero Dawn as normal
 
+## Skyrim SE
+- Create a new Windows 10 bottle
+- Install in Steam as normal
+- In Whisky, find `SkyrimSELauncher.exe` in the Program list and press `Show in Finder`
+- Rename `SkyrimSELauncher.exe` to something else, and rename `SkyrimSE.exe` to `SkyrimSELauncher.exe`
+- On your bottle click `Winetricks...`
+- Run the following command `dotnet48 vcrun2019 dxvk1103 d3dx11_43 d3dcompiler_43 d3dcompiler_47 faudio`
+- Start Skyrime from Steam as normal
+
 ## Elite Dangerous - NOT WORKING
 - Install winetricks\
   `brew install winetricks`
@@ -48,10 +57,3 @@ Many games will work out of the box, but some are more tricky. Things that frequ
 - Run Elite Dangerous *from Steam*.
   > **Warning**\
   > You will be unable to log in if you do not launch from Steam
-
-## Skyrim SE - HAS AUDIO PROBLEMS
-- Create a new Windows 10 bottle
-- Install in Steam as normal
-- In Whisky, find `SkyrimSELauncher.exe` in the Program list and press `Show in Finder`
-- Rename `SkyrimSELauncher.exe` to something else, and rename `SkyrimSE.exe` to `SkyrimSELauncher.exe`
-- Start Skyrim from Steam as normal
