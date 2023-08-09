@@ -42,6 +42,8 @@ Many games will work out of the box, but some are more tricky. Things that frequ
 - Rename `SkyrimSELauncher.exe` to something else, and rename `SkyrimSE.exe` to `SkyrimSELauncher.exe`
 - On your bottle click `Winetricks...`
 - Run the following command `dotnet48 vcrun2019 dxvk1103 d3dx11_43 d3dcompiler_43 d3dcompiler_47 faudio`
+  > **Note**\
+  > This WILL require user interaction and will likely take a rather long time to complete
 - Start Skyrime from Steam as normal
 
 ## Elite Dangerous - NOT WORKING
