@@ -25,6 +25,16 @@ Many games will work out of the box, but some are more tricky. Things that frequ
 - Install in Steam as normal
 - In Whisky, find `SwGame-Win64-Shipping.exe` in the Program list and run it
 
+## Horizon Zero Dawn
+- Create a new Windows 10 Bottle
+- Install Horizon Zero Dawn as normal
+- On your bottle click `Config` then `Open Registry Editor`
+- Navigate to `HKEY_LOCAL_MACHINE > Hardware > Description > System > CentralProcessor > 0`
+- Double-click to edit the `~MHz` key
+- Change the base to `Decimal` and type the value `1100`
+- Press `OK` then close the Registry Editor
+- Start Horizon Zero Dawn as normal
+
 ## Elite Dangerous - NOT WORKING
 - Install winetricks\
   `brew install winetricks`
