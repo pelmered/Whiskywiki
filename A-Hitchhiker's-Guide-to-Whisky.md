@@ -4,11 +4,9 @@ We're glad you're here. Here's how to get up and running in a breeze.
 
 1. Download Whisky
     - Download the latest release [here](https://github.com/IsaacMarovitz/Whisky/releases)
-2. Download Apple's Game Porting Toolkit DMG
-    - You can find it [here](https://developer.apple.com/download/all/?q=porting). You can log in to Apple's site with a regular Apple ID, **you don't need to pay the $100 fee**.
-3. Move Whisky to your Applications folder
-4. Open Whisky
-5. Drag-n-drop the DMG we just downloaded from Apple's website into Whisky
+2. Move Whisky to your Applications folder
+3. Open Whisky
+4. Follow on-screen instructions
 
 **Everything is now installed!**
 
