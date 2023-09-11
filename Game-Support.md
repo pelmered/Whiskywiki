@@ -47,6 +47,14 @@ Many games will work out of the box, but some are more tricky. Things that frequ
   > This WILL require user interaction and will likely take a rather long time to complete
 - Start Skyrim from Steam as normal
 
+## Baldur's Gate 3
+- Create a new Windows 10 bottle
+- Go to Config
+  - Enable DXVK
+- Install in Steam as normal
+- Install the game in steam as normal
+- To start the game you need to run `Program Files (x86)/Steam/steamapps/common/Baldurs Gate 3/bin/bg3_dx11.exe`
+
 ## Elite Dangerous - NOT WORKING
 - Create a new Windows 10 bottle
 - On your bottle click `Winetricks...`
